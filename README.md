@@ -1,6 +1,5 @@
 ### Welcome to my world ~ 👋
 ```
-#include "contacts.h"
 #include "hobbies.h"
 #include "languages.h"
 #include "profile.h"
@@ -13,11 +12,8 @@ int main()
   profile.set_title("Junior Game Programmer");
   profile.add_education("IIM Digital School", "Master's Degree in Gamme Programming", 2021, 2023);
   profile.add_education("Paris Cite University", "Bachelor's Degree in Computer Science", 2018, 2021);
-  profile.add_soft({"Communication", "Creativity", "Problem-Solving", "Teamwork", "Collaboration", "Adaptabiltity", "Curious"});
-
-  Contacts contacts;
-  contacts.set_email("imane.taruf@gmail.com");
-  contacts.set_linkedin("https://www.linkedin.com/in/imane-taruf-53040320a/");
+  profile.set_email("imane.taruf@gmail.com");
+  profile.set_linkedin("https://www.linkedin.com/in/imane-taruf-53040320a/");
 
   Language languages;
   languages.add_programming({"C", "C++", "C#", "Python"});
