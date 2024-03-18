@@ -23,7 +23,7 @@ int main()
 
   Software softwares;
   softwares.add_game_engine({"Unreal Engine 4", "Unreal Engine 5", "Unity", "Ubisoft's Anvil"});
-  softwares.add_ide({"Visual Studio Code", "Visual Studio Community 2019/2022", "JetBrains Rider", "JetBrains Python", "Eclipse"});
+  softwares.add_ide({"Visual Studio Code", "Visual Studio Community 2019/2022", "JetBrains Rider", "JetBrains PyCharm", "Eclipse"});
   softwares.add_version_control({"Git", "Perforce"});
   
   Hobbies hobbies;
