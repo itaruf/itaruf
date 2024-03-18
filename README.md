@@ -10,7 +10,7 @@ int main()
   Profile profile;
   profile.set_name("Imane Taruf");
   profile.set_title("Junior Game Programmer");
-  profile.add_education("IIM Digital School", "Master's Degree in Gamme Programming", 2021, 2023);
+  profile.add_education("IIM Digital School", "Master's Degree in Game Programming", 2021, 2023);
   profile.add_education("Paris Cite University", "Bachelor's Degree in Computer Science", 2018, 2021);
   profile.set_email("imane.taruf@gmail.com");
   profile.set_linkedin("https://www.linkedin.com/in/imane-taruf-53040320a/");
