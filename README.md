@@ -1,4 +1,4 @@
-### Welcome to my world ~ 👋 Let's dive -> [in](https://github.com/itaruf?tab=stars) <- !
+### Welcome to my world 👋 ~ Start exploring  ~ [now](https://github.com/itaruf?tab=stars) ~ ⭐
 ```
 #include "hobbies.h"
 #include "languages.h"
