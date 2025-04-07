@@ -20,20 +20,19 @@ int main()
 
     Experience experience;
     experience.add("CNRS-AIST JRL, Tsukuba, Japan", "XR & Game Technologies Engineer | Humanoid-Robot Teleoperation", "09/2024", "Present",
-    { "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies to build the most immersive experience possible." });
+    { "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies." });
 
     experience.add("Ubisoft Bordeaux, France", "Gameplay Programmer Intern", "02/2023", "08/2023",
-    { "Worked within an international game development team of 6 developers to enhance AI systems for the AAA game Assassin's Creed Mirage" });
+    { "Worked within an international game development to enhance AI systems for the AAA game Assassin's Creed Mirage" });
 
     Languages languages;
     languages.add_programming({ "C/C++", "C#", "Python" });
-    languages.add_computer({ "HTML", "CSS", "JSON", "JavaScript" });
     languages.add_scripting("Unreal Engine's Blueprints");
     languages.add_real({ "French: Native", "English: Business Level", "Japanese: Low Intermediate"});
 
     Softwares softwares;
     softwares.add_game_engine({ "Unreal Engine 4", "Unreal Engine 5", "Unity", "Ubisoft’s Anvil" });
-    softwares.add_ide({ "Visual Studio Code", "Visual Studio Community 2019/2022", "JetBrains Rider", "JetBrains PyCharm", "Eclipse" });
+    softwares.add_ide({ "Visual Studio Code", "Visual Studio Community 2019/2022", "JetBrains Rider" });
     softwares.add_version_control({ "Git", "Perforce" });
     softwares.add_collaboration_tools({ "Jira", "Confluence", "Microsoft 365", "Slack", "Notion", "Trello", "Miro" });
 
