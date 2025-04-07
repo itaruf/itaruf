@@ -19,11 +19,11 @@ int main()
     education.add("University of Paris Cité", "Bachelor's Degree in Computer Science", 2018, 2021);
 
     Experience experience;
-    experience.add("CNRS-AIST JRL, Tsukuba, Japan", "XR & Game Technologies Engineer | Humanoid-Robot Teleoperation", "09/2024", "Present",
+    experience.add("CNRS-AIST JRL, Tsukuba, Japan", "XR & Game Technologies Engineer | Humanoid-Robot", "09/2024", "Present",
     { "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies." });
 
     experience.add("Ubisoft Bordeaux, France", "Gameplay Programmer Intern", "02/2023", "08/2023",
-    { "Worked within an international game development to enhance AI systems for the AAA game Assassin's Creed Mirage" });
+    { "Worked within an international game development to enhance AI systems for the AAA game Assassin's Creed Mirage." });
 
     Languages languages;
     languages.add_programming({ "C/C++", "C#", "Python" });
