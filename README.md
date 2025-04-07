@@ -20,23 +20,11 @@ int main()
 
     Experience experience;
     experience.add("CNRS-AIST JRL, Tsukuba, Japan", "XR & Game Technologies Engineer | Humanoid-Robot Teleoperation", "09/2024", "Present", {
-        "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies to build the most immersive experience possible.",
-        "• Designed extensible systems for humanoid-robot teleoperation using XR and game technologies",
-        "• Integrated third-party SDKs to expand interaction capabilities and device options for users",
-        "• Migrated the VR system to OpenXR for long-term support and cross-platform compatibility",
-        "• Developed custom editor tools to manage system data and streamline development and debugging",
-        "• Configured projects for standalone optimized builds to support future-ready distributions",
-        "• Established CI/CD pipelines to support scheduled releases and track stages (e.g., public showcases)",
-        "• Authored technical documentation to support onboarding and team collaboration"
+        "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies to build the most immersive experience possible."
     });
 
     experience.add("Ubisoft Bordeaux, France", "Gameplay Programmer Intern", "02/2023", "08/2023", {
-        "Collaborated within an international game development team of 6 developers to enhance AI systems",
-        "Worked on Assassin’s Creed Mirage, a AAA game with over 5M copies sold in 4 months of release",
-        "Developed real-time gameplay features in C++ for AI navigation, decision-making, and entity detection",
-        "Worked using Visual Studio 2022, and Anvil Engine, a C++ game engine codebase of 10M lines",
-        "Troubleshot issues and tested developed solutions, ensuring quality for various in-game scenarios",
-        "Used Perforce for version control, and Helix Swarm for code reviews to maintain best practices"
+        "Worked within an international game development team of 6 developers to enhance AI systems for the AAA game Assassin's Creed Mirage"
     });
 
     Languages languages;
