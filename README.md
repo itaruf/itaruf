@@ -23,7 +23,7 @@ int main()
     { "In charge of developing systems for humanoid-robot teleoperation using XR and game technologies." });
 
     experience.add("Ubisoft Bordeaux, France", "Gameplay Programmer Intern", "02/2023", "08/2023",
-    { "Worked within an international game development to enhance AI systems for the AAA game Assassin's Creed Mirage." });
+    { "Worked for an international game studio to develop AI systems for the AAA game Assassin's Creed Mirage." });
 
     Languages languages;
     languages.add_programming({ "C/C++", "C#", "Python" });
