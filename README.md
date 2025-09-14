@@ -69,12 +69,36 @@
     <img src="https://camo.githubusercontent.com/f10da7ab45773890ac7a3a0b68f805f7012b1670bd25554e722a28d811147623/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d687165586f7863486777596d56305a6e5a794f444273636e41354e6d64334d574a6c4d335133656d5a744e3270684d48567465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f463251764a4437665661713578394135376f2f67697068792e676966" 
          width="50%" alt="Miss Neville banner">
   </a>
-  <br><sub><b>Miss Neville</b> - 2D puzzle game — <a href="https://www.ubisoft.com/fr-fr/company/careers/interns-graduates/develop-at-ubisoft" target="_blank">Develop@Ubisoft (game development program)</a></sub>
+  <br><sub><b>Miss Neville</b> - 2D puzzle game - <a href="https://www.ubisoft.com/fr-fr/company/careers/interns-graduates/develop-at-ubisoft" target="_blank">Develop@Ubisoft (game development program)</a></sub>
   <br><sub><a href="https://github.com/itaruf/MissNeville" target="_blank"><b>open-source code (GitHub)</b></a></sub>
 </td>
 
   </tr>
 </table>
+
+---
+
+### 🎮 Credited titles
+
+<table>
+  <tr>
+    <td align="center" width="160" valign="top">
+      <img src="https://github.com/user-attachments/assets/88f5095a-b50b-4827-bfa7-bf5fce7ece75" width="140" alt="Assassin’s Creed Mirage cover">
+    </td>
+    <td valign="middle">
+      <b>Assassin’s Creed Mirage</b> - <i>Action-Adventure</i><br>
+      <b>Role:</b> Gameplay Programmer Intern · Ubisoft (2023)<br>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Highlights
+
+- Gameplay Programmer Intern at Ubisoft (France) - C++ AI gameplay features, debugging, code review on *Assassin’s Creed Mirage*.  
+- Software Engineer at AIST (Japan) - Real-time robotic control systems using game technologies, legacy systems migration, custom debug tools, CI/CD pipeline setup.  
+- Game Programmer / Game Designer for game jams (GMTK, Game Off, Brackeys, Epic MegaJam, etc.).
 
 ---
 
@@ -89,15 +113,6 @@
 - [**Using Interfaces as Component Providers in Unreal Engine 5 (C++ with Blueprint Support)**](https://medium.com/@imane.taruf/using-interfaces-as-component-providers-in-unreal-engine-5-c-with-blueprint-support-52a133bd50e1) - Nov 2024  
 
 ---
-
-### 🌟 Highlights
-
-- Gameplay Programmer Intern at Ubisoft (France) - C++ AI gameplay features, debugging, code review on *Assassin’s Creed Mirage*.  
-- Software Engineer at AIST (Japan) - Real-time robotic control systems using game technologies, legacy systems migration, custom debug tools, CI/CD pipeline setup.  
-- Game Programmer / Game Designer for game jams (GMTK, Game Off, Brackeys, Epic MegaJam, etc.).
-
----
-
 ### 📫 Contact
 
 - 📫 **Email:** imane.taruf@gmail.com
