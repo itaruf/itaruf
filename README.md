@@ -46,35 +46,48 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="160" valign="top">
       <a href="https://itaruf.itch.io/openyoureyes" target="_blank">
         <img src="https://private-user-images.githubusercontent.com/79866301/489326386-b8c2a824-819a-42dd-a077-8ace134e4f1e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4OTEyMDcsIm5iZiI6MTc1Nzg5MDkwNywicGF0aCI6Ii83OTg2NjMwMS80ODkzMjYzODYtYjhjMmE4MjQtODE5YS00MmRkLWEwNzctOGFjZTEzNGU0ZjFlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE0VDIzMDE0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkMTdkMGJkYmQ4YmFmOTAxOGJlNzBiNTMwYTU0MGNiYWI3Zjg1YjBmZmQxZGQ1OWQ2NTA4YWU3MWQ3ZDRlMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gHD_01mKw7Qd_QVwlLB3ogCykqUbJJEIdVbADKXOsDQ" 
-          width="50%" alt="OPEN YOUR EYES banner">
+             width="140" alt="OPEN YOUR EYES banner">
       </a>
-      <br><sub><b>OPEN YOUR EYES</b> - 3D puzzle game - <a href="https://itch.io/jam/gmtk-2025" target="_blank">GMTK 2025 (game jam)</sub></a></sub>
-      <br><sub><a href="https://github.com/itaruf/GMTK2025" target="_blank"><b>open-source code (GitHub)</b></a></sub>
     </td>
-    <td align="center" width="50%">
+    <td valign="middle">
+      <b>OPEN YOUR EYES</b> - <i>3D puzzle game</i> - 
+      <a href="https://itch.io/jam/gmtk-2025" target="_blank">GMTK 2025 (game jam)</a><br>
+      <sub><a href="https://github.com/itaruf/GMTK2025" target="_blank"><b>open-source code (GitHub)</b></a></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="160" valign="top">
       <a href="https://itaruf.itch.io/escape-42" target="_blank">
         <img src="https://camo.githubusercontent.com/5b5c6c367d45a0a642847b67d095456308a5dd73a7f00b215af40a28ee4cecea/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6a56325933426f6447357a6158646a63575a69656a45785a444d314d6e557762476c72647a526c635746364e5770324f5468735a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6348654c45455a6b324e317763797843596d2f67697068792d646f776e73697a65642d6c617267652e676966" 
-          width="50%" alt="Escape 42 banner">
+             width="140" alt="Escape 42 banner">
       </a>
-      <br><sub><b>Escape 42</b> - 3D stealth game - <a href="https://itch.io/jam/game-off-2023" target="_blank">Game Off 2023 (game jam)</sub></a></sub>
-      <br><sub><a href="https://github.com/itaruf/GameOff2023" target="_blank"><b>open-source code (GitHub)</b></a></sub>
+    </td>
+    <td valign="middle">
+      <b>Escape 42</b> - <i>3D stealth game</i> - 
+      <a href="https://itch.io/jam/game-off-2023" target="_blank">Game Off 2023 (game jam)</a><br>
+      <sub><a href="https://github.com/itaruf/GameOff2023" target="_blank"><b>open-source code (GitHub)</b></a></sub>
     </td>
   </tr>
-     <tr>
-  <td align="center" width="50%">
-  <a href="https://itaruf.itch.io/miss-neville" target="_blank">
-    <img src="https://camo.githubusercontent.com/f10da7ab45773890ac7a3a0b68f805f7012b1670bd25554e722a28d811147623/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d687165586f7863486777596d56305a6e5a794f444273636e41354e6d64334d574a6c4d335133656d5a744e3270684d48567465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f463251764a4437665661713578394135376f2f67697068792e676966" 
-         width="50%" alt="Miss Neville banner">
-  </a>
-  <br><sub><b>Miss Neville</b> - 2D puzzle game - <a href="https://www.ubisoft.com/fr-fr/company/careers/interns-graduates/develop-at-ubisoft" target="_blank">Develop@Ubisoft (game development program)</a></sub>
-  <br><sub><a href="https://github.com/itaruf/MissNeville" target="_blank"><b>open-source code (GitHub)</b></a></sub>
-</td>
 
+  <tr>
+    <td align="center" width="160" valign="top">
+      <a href="https://itaruf.itch.io/miss-neville" target="_blank">
+        <img src="https://camo.githubusercontent.com/f10da7ab45773890ac7a3a0b68f805f7012b1670bd25554e722a28d811147623/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d687165586f7863486777596d56305a6e5a794f444273636e41354e6d64334d574a6c4d335133656d5a744e3270684d48567465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f463251764a4437665661713578394135376f2f67697068792e676966" 
+             width="140" alt="Miss Neville banner">
+      </a>
+    </td>
+    <td valign="middle">
+      <b>Miss Neville</b> - <i>2D puzzle game</i> - 
+      <a href="https://www.ubisoft.com/fr-fr/company/careers/interns-graduates/develop-at-ubisoft" target="_blank">Develop@Ubisoft (game development program)</a><br>
+      <sub><a href="https://github.com/itaruf/MissNeville" target="_blank"><b>open-source code (GitHub)</b></a></sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
